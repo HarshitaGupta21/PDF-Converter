@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="7.6.1">
+<file name="D:\MajorProject\PDF Converter\app\src\androidTest\java\pdfconverterhhkg\dudepdfconverterhhkg\ApplicationTest.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\androidTest\java\pdfconverterhhkg\dudepdfconverterhhkg\util\DirectoryUtilsTest.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\activity\CropImageActivity.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\activity\FavouritesActivity.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\activity\ImageEditor.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\activity\ImagesPreviewActivity.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\activity\MainActivity.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\activity\PreviewActivity.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\activity\RearrangeImages.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\activity\RearrangePdfPages.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\activity\WelcomeActivity.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\adapter\BrushItemAdapter.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\adapter\EnhancementOptionsAdapter.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\adapter\ExtractImagesAdapter.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\adapter\FAQAdapter.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\adapter\FilesListAdapter.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\adapter\HistoryAdapter.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\adapter\ImageFiltersAdapter.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\adapter\MergeFilesAdapter.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\adapter\MergeSelectedFilesAdapter.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\adapter\PreviewAdapter.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\adapter\PreviewImageOptionsAdapter.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\adapter\RearrangeImagesAdapter.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\adapter\RearrangePdfAdapter.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\adapter\RecentListAdapter.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\adapter\ViewFilesAdapter.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\customviews\MyCardView.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\database\AppDatabase.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\database\DatabaseHelper.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\database\History.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\database\HistoryDao.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\fragment\AboutUsFragment.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\fragment\AddImagesFragment.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\fragment\AddTextFragment.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\fragment\ExceltoPdfFragment.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\fragment\ExtractTextFragment.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\fragment\FAQFragment.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\fragment\FavouritesFragment.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\fragment\HistoryFragment.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\fragment\HomeFragment.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\fragment\ImageToPdfFragment.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\fragment\InvertPdfFragment.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\fragment\MergeFilesFragment.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\fragment\PdfToImageFragment.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\fragment\QrBarcodeScanFragment.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\fragment\RemoveDuplicatePagesFragment.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\fragment\RemovePagesFragment.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\fragment\SettingsFragment.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\fragment\SplitFilesFragment.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\fragment\ViewFilesFragment.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\fragment\ZipToPdfFragment.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\fragment\texttopdf\Enhancers.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\fragment\texttopdf\FontColorEnhancer.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\fragment\texttopdf\FontFamilyEnhancer.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\fragment\texttopdf\FontSizeEnhancer.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\fragment\texttopdf\PageColorEnhancer.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\fragment\texttopdf\PageSizeEnhancer.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\fragment\texttopdf\PasswordEnhancer.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\fragment\texttopdf\TextToPdfContract.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\fragment\texttopdf\TextToPdfFragment.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\interfaces\BottomSheetPopulate.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\interfaces\DataSetChanged.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\interfaces\EmptyStateChangeListener.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\interfaces\Enhancer.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\interfaces\ExtractImagesListener.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\interfaces\ItemSelectedListener.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\interfaces\MergeFilesListener.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\interfaces\OnBackPressedInterface.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\interfaces\OnFilterItemClickedListener.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\interfaces\OnItemClickListener.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\interfaces\OnPDFCompressedInterface.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\interfaces\OnPDFCreatedInterface.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\interfaces\OnPdfReorderedInterface.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\interfaces\OnTextToPdfInterface.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\model\BrushItem.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\model\EnhancementOptionsEntity.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\model\FAQItem.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\model\FilterItem.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\model\HomePageItem.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\model\ImageToPDFOptions.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\model\PDFFile.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\model\PDFOptions.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\model\PreviewImageOptionItem.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\model\TextToPDFOptions.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\model\Watermark.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\model\WhatsNew.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\preferences\TextToPdfPreferences.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\providers\fragmentmanagement\FragmentManagement.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\providers\fragmentmanagement\IFragmentManagement.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\util\AdLoader.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\util\AddTextEnhancementOptionsUtils.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\util\BottomSheetCallback.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\util\BottomSheetUtils.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\util\BrushUtils.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\util\ColorUtils.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\util\CommonCodeUtils.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\util\Constants.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\util\CreatePdf.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\util\DialogUtils.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\util\DirectoryUtils.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\util\DocFileReader.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\util\DocxFileReader.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\util\ExcelToPDFAsync.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\util\ExtractImages.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\util\FavouritesPreferences.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\util\FeedbackUtils.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\util\FileReader.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\util\FileSortUtils.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\util\FileUriUtils.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\util\FileUtils.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\util\FragmentUtils.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\util\ImageEnhancementOptionsUtils.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\util\ImageFilterUtils.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\util\ImageSortUtils.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\util\ImageUtils.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\util\InvertPdf.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\util\MergeHelper.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\util\MergePdf.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\util\MergePdfEnhancementOptionsUtils.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\util\MorphButtonUtility.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\util\MoveFilesToDirectory.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\util\PDFApplication.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\util\PDFEncryptionUtility.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\util\PDFRotationUtils.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\util\PDFUtils.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\util\PageSizeUtils.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\util\PdfToImages.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\util\PermissionsUtils.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\util\PopulateBottomSheetList.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\util\PopulateBottomSheetListWithExcelFiles.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\util\PopulateList.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\util\PrintDocumentAdapterHelper.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\util\RealPathUtil.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\util\RecentUtil.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\util\RemoveDuplicates.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\util\ResultUtils.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\util\SettingsOptions.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\util\SplitPDFUtils.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\util\StringUtils.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\util\TextEnhancementOptionsUtils.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\util\TextFileReader.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\util\TextToPDFUtils.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\util\TextToPdfAsync.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\util\ThemeUtils.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\util\ViewFilesDividerItemDecoration.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\util\WatermarkPageEvent.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\util\WatermarkUtils.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\main\java\pdfconverterhhkg\dudepdfconverterhhkg\util\ZipToPdf.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\test\java\pdfconverterhhkg\dudepdfconverterhhkg\util\ColorUtilsTest.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\test\java\pdfconverterhhkg\dudepdfconverterhhkg\util\FileSortUtilsTest.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\test\java\pdfconverterhhkg\dudepdfconverterhhkg\util\ImageSortUtilsTest.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\test\java\pdfconverterhhkg\dudepdfconverterhhkg\util\ImageUtilsTest.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\test\java\util\FileUtilsTest.java">
+</file>
+<file name="D:\MajorProject\PDF Converter\app\src\test\java\util\PDFUtilsTest.java">
+</file>
+</checkstyle>
